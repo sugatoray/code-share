@@ -1,2 +1,3 @@
-# code_share
-A repository of shared code snippets
+# Code Share
+
+A repository of shared code snippets.
