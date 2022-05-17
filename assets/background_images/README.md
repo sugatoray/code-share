@@ -2,6 +2,8 @@
 
 The following gradient based background images were generated at https://angrytools.com/gradient/image/.
 
+- Alternate storage: [Google Photos](https://photos.app.goo.gl/ohu4g1jnCwD4hCar8) :star:
+
 | SL# | Dimension (HxW) | Preview | Source |
 |:---|:---|:---:|:---:|
 | `01` | `1200x1200` | <img src="angryimg_example-3_1200x1200.png" alt="image" style="width:100px;"/> | [:bulb: `Link`][#src-example-3] |
