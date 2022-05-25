@@ -1,0 +1,15 @@
+/*
+    ! Purpose:
+        This css helps in checking colors
+        with vscode extension(s):
+
+        ** - Color Info: bierner.color-info
+        ** - Color Picker: anseki.vscode-color
+*/
+
+body{
+    background-color: #e5ff00;
+}
+head{
+    background-color: "#FF2D00";
+}
