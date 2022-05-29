@@ -1,3 +1,6 @@
+
+![banner](assets/banners/code-share-2x.png)
+
 # Code Share
 
 A repository of shared code snippets.
