@@ -1,6 +1,6 @@
 ### An example of creating a python module in Google Colab
 
-You can also find the same in a jupyter notebook [here](https://github.com/sugatoray/code-share/blob/master/notebooks/demo_making_python_modules.ipynb).
+You can also find the same in a jupyter notebook :fire: [here](https://github.com/sugatoray/code-share/blob/master/notebooks/demo_making_python_modules.ipynb).
 
 <details>
 <summary>Click to expand and see the example</summary>
